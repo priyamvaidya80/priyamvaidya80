@@ -12,6 +12,7 @@ pool:
 steps:
 - script: echo Hello, world!
 - script: echo Hello Priyam.
+- script: echo Hello Priyam 8th March 2022
   displayName: 'Run a one-line script'
 
 - script: |
